@@ -1,5 +1,5 @@
 ---
-title: Hexo Template
+title: Hexo Template(这篇帖子由模板创建者撰写)
 ---
 
 > A fast, simple & powerful blog framework, powered by [Node.js](https://nodejs.org). Here is the template of it.
